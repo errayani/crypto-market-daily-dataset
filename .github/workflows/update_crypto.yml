@@ -20,7 +20,7 @@ jobs:
           python-version: "3.11"
 
       - name: Install dependencies
-        run: pip install requests pandas kaggle
+        run: pip install requests pandas kaggle six
 
       - name: Fetch latest crypto data
         run: python scripts/fetch_crypto.py
