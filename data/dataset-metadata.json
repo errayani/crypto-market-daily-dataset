@@ -1,0 +1,17 @@
+{
+  "title": "Cryptocurrency Daily Market & Historical Data (USD)",
+  "id": "YOUR_KAGGLE_USERNAME/crypto-daily-market-usd",
+  "licenses": [
+    {
+      "name": "CC0-1.0"
+    }
+  ],
+  "keywords": [
+    "cryptocurrency",
+    "bitcoin",
+    "finance",
+    "time series",
+    "market data"
+  ],
+  "description": "Automated daily cryptocurrency market and historical dataset (USD), including price, market cap, 24h volume, and price changes, fetched via CoinGecko API and synced automatically via GitHub Actions."
+}
